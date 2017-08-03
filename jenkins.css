@@ -1,9 +1,9 @@
-img.icon-blue-anime.icon-lg {
+#nodeGraph img.icon-blue-anime.icon-lg {
     -webkit-filter: hue-rotate(20deg);
     content: url("http://www.ms-society.ie/uploads/Image/Get%20Involved/Treks%20and%20Challenges/Run%20with%20Liam/Running%20Icon.jpg");
 }
 
-img.icon-blue.icon-lg {
+#nodeGraph img.icon-blue.icon-lg {
     opacity: 0.1;
     transform: scale(0.5, 0.5);
 }
